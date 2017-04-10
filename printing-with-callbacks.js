@@ -33,4 +33,4 @@ var requestOptions = {
   path: '/http-examples/step4.html'
 };
 
-getHTML(requestOptions, printHTML)
+getHTML(requestOptions, printHTML);
